@@ -1,6 +1,7 @@
 <?php
 
-echo "ASEP TONI";
+echo "Nama : ASEP TONI";
 echo "<br>";
-echo "101163xx";
+echo "NIM : 101163xx";
+
 ?>
